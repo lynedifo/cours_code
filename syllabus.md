@@ -67,3 +67,4 @@ Chacon, Scott ; Straub, Ben. *Pro Git.* Apress. 2014. 456 pages
 Hartl, Michael. *Learn Enough Command Line to Be Dangerous: A tutorial introduction to the Unix command line.* Softcover. 2016. 85 pages.
 
 Nebra, Mathieu. *Réalisez votre site web avec HTML 5 et CSS 3.* OpenClassrooms. 2017. 306 pages.
+

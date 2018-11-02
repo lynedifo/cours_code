@@ -12,3 +12,4 @@ Félix Gaudé et les élèves contribuent au cours par le partage des ressources
 
 # **Contexte du choix de ce cours**
 Ce nouveau cours a été choisi dans le cadre d'une option transversale dans le but d'apprendre les bases du codage qui seront nécessaires pour notre vie professionnelle future. 
+
